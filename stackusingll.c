@@ -89,7 +89,7 @@ int main() {
 		printf("2)POP\n");
 		printf("3)PEEK\n");
 		printf("4)DISPLAY\n");
-		printf("5)QUIET");
+		printf("5)QUIT");
 		printf("\n..................\n");
 		printf("choose your option : ");
 		scanf("%d",&opt);
